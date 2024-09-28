@@ -1,12 +1,8 @@
-# Example App: Modern PHP Without a Framework
-
-A fully-functional example app bootstrap built to accompany the [Modern PHP Without a Framework](https://kevinsmith.io/modern-php-without-a-framework) tutorial.
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/kevinsmith/no-framework)
+# ConsigSenior PHP
 
 ## License
 
-Copyright 2023 Kevin Smith
+Copyright 2024 Felipe Brandão
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
